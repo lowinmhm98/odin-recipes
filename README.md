@@ -1,2 +1,2 @@
 # odin-recipes
- 
+ In this project i showed that i can build the basic structure of a webpage and that i can use different html elements such as  links,images........
